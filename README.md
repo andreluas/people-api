@@ -30,4 +30,4 @@ A qualidade de software deve ser considerada em todas as etapas de desenvolvimen
 
 ## Copyright
 
-Released under the Apache License 2.0. See the [LICENSE]() file.
+Released under the Apache License 2.0. See the [LICENSE](https://github.com/andreluas/people-api/blob/master/LICENSE) file.
